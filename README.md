@@ -17,4 +17,13 @@ Proyetos
 -----------------------------------------------------
 He tenido el placer de trabajar en el proyecto ONE junto a un gran equipo: Edwin Rodríguez García, Matias Lanza, Luis Galea, Diego Galeano y Bryan Cardenas.
 
-Este Proyecto fue mi mayor aprendizaje en el transcurso de la carrera de Full-Stack. En ONE me dedique al frontend, especificamente a los filtros, dashboard y estructura. En este proyecto he implementado a gran medida Redux y en el proceso del estilado he aprendido Bootstrap.
+Este Proyecto fue mi mayor aprendizaje en el transcurso de la carrera de Full-Stack. En ONE me dedique al frontend, especificamente a los filtros, dashboard y estructura. En este proyecto he implementado a gran medida Redux y en el proceso del estilado he aprendido Bootstrap. Hemos logrado comunicarnos de una manera satisfactoria, ayudandonos entre todos y apoyandonos entre nosotros.
+
+Contacto
+-----------------------------------------------------
+Si estas interesado en comunicarte lo puedes hacer mediante:
+- Linkedin: https://www.linkedin.com/in/tom%C3%A1s-unizony-600a04279
+- Mail: unizonytomas@gmail.com
+- instagram: tomas_unizony
+
+  Cualquier consulta no dudes en contactarme!
